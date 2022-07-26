@@ -32,10 +32,15 @@ Ciphered message: jo dpef xf usvtu
 #### To help you accomplish this task, here are some of the steps you should go through:
 
 Install the necessary tools (JVM, gradle, jenkins...)
+
 Make a new Github repository with the content of the original Repo
+
 Try to run the build and the tests manually to make sure everything is ok
+
 Create a Jenkinsfile, and write all the necessary steps, then push it to the remote repo.
+
 Create a pipeline in jenkins...
+
 Important: this project is known to be running within the following environment:
 
 
@@ -44,6 +49,7 @@ Gradle 7.3.3
 ------------------------------------------------------------
 
 Build time:   2021-12-22 12:37:54 UTC
+
 Revision:     6f556c80f945dc54b50e0be633da6c62dbe8dc71
 
 Kotlin:       1.5.31
